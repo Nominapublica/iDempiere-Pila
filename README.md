@@ -1,2 +1,2 @@
-# iDempierev6.2
-This is all source code of iDempierev6.2, also there are did somethings
+# iDempierev6.2 Planilla Integrada de Liquidación de Aportes
+Plugin que genera el archivo plano que contien la Planilla Integrada de Liquidación de Aportes 
